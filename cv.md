@@ -17,6 +17,7 @@ Every day i learn something new and try to practice it.
 *HTML
 *CSS
 *Javascript (Basic)
+*Git
 ===
 ## __Code Example__
 ===
@@ -40,6 +41,7 @@ let toSum = function(){
 Courses:
 *HTML Academy
 *Hexlet
+*Rsschool
 
 ## __English__
 __A1__(I often communicate with English speakers at work)
